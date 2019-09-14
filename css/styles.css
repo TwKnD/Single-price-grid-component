@@ -1,11 +1,49 @@
-h1 {}
-h2 {}
-h3 {}
-.top-container {}
-.left-container {}
-.right-container {}
-.top-para {}
-.price-head {}
-.price-para {}
-.left-para {}
-.right-para {}
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  color: #2ab2af;
+}
+
+h2 {
+  color: #c0df34;
+}
+
+h3 {
+  color: #ffffff;
+}
+
+p {
+  color: #e5eff5;
+}
+
+/* .top-container {} */
+.left-container {
+  background-color: #2ab2af;
+}
+
+.right-container {
+  background-color: #2ab2af;
+}
+
+.top-para {
+  color: #98a6bd;
+}
+
+.price-head {
+  color: #ffffff;
+}
+/* .btn {} */
+/* .price-para {} */
+/* .left-para {} */
+/* .right-para {} */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
