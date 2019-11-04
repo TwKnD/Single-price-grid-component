@@ -18,26 +18,31 @@ h3 {
 p {
   color: #e5eff5;
 }
-
+/* Top Container */
 /* .top-container {} */
-/* .right-para {} */
-.left-container {
-  background-color: #2ab2af;
-}
-/* .price-para {} */
-/* .left-para {} */
-/* .btn {} */
-.right-container {
-  background-color: #2ab2af;
-}
-
 .top-para {
   color: #98a6bd;
+}
+
+/* Left Container */
+.left-container {
+  background-color: #2ab2af;
 }
 
 .price-head {
   color: #ffffff;
 }
+
+/* .price-para {} */
+/* .left-para {} */
+/* .btn {} */
+
+/* Right Container */
+.right-container {
+  background-color: #2ab2af;
+}
+
+/* .right-para {} */
 .attribution {
   font-size: 11px;
   text-align: center;
