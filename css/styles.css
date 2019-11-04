@@ -63,7 +63,6 @@ div.wrapper {
   display: inline;
 }
 
-/* .left-para {} */
 /* Button */
 .btn {
   background-color: hsl(71, 73%, 54%);
@@ -92,7 +91,6 @@ div.wrapper {
   border-bottom-right-radius: 10px;
 }
 
-/* .right-para {} */
 /* Footer */
 .footer {
   grid-column: 2/4;
