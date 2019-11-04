@@ -111,6 +111,10 @@ div.wrapper {
 
 /* Media Query */
 @media only screen and (max-width: 640px) {
+  body {
+    margin: 5%;
+    margin-top: 10%;
+  }
   .wrapper {
     display: grid;
     grid-template-columns: 1fr;
