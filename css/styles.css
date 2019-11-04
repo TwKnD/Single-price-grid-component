@@ -20,10 +20,13 @@ p {
 }
 
 /* .top-container {} */
+/* .right-para {} */
 .left-container {
   background-color: #2ab2af;
 }
-
+/* .price-para {} */
+/* .left-para {} */
+/* .btn {} */
 .right-container {
   background-color: #2ab2af;
 }
@@ -35,10 +38,6 @@ p {
 .price-head {
   color: #ffffff;
 }
-/* .btn {} */
-/* .price-para {} */
-/* .left-para {} */
-/* .right-para {} */
 .attribution {
   font-size: 11px;
   text-align: center;
